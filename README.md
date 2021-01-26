@@ -1,0 +1,1 @@
+This is MSmetana's first git project!
